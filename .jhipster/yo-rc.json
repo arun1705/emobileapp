@@ -1,0 +1,52 @@
+{
+	"generator-jhipster": {
+		"promptValues": {
+			"packageName": "com.seller",
+			"nativeLanguage": "en"
+		},
+		"jhipsterVersion": "6.4.1",
+		"applicationType": "gateway",
+		"baseName": "app_gateway",
+		"packageName": "com.seller",
+		"packageFolder": "com/seller",
+		"serverPort": "8080",
+		"authenticationType": "uaa",
+		"uaaBaseName": "uaa",
+		"cacheProvider": "hazelcast",
+		"enableHibernateCache": true,
+		"websocket": "spring-websocket",
+		"databaseType": "sql",
+		"devDatabaseType": "mysql",
+		"prodDatabaseType": "mysql",
+		"searchEngine": "elasticsearch",
+		"messageBroker": false,
+		"serviceDiscoveryType": "eureka",
+		"buildTool": "maven",
+		"enableSwaggerCodegen": true,
+		"embeddableLaunchScript": false,
+		"useSass": true,
+		"clientPackageManager": "npm",
+		"clientFramework": "react",
+		"clientTheme": "none",
+		"clientThemeVariant": "",
+		"testFrameworks": [
+			"gatling",
+			"protractor"
+		],
+		"jhiPrefix": "jhi",
+		"entitySuffix": "",
+		"dtoSuffix": "DTO",
+		"otherModules": [],
+		"enableTranslation": true,
+		"nativeLanguage": "en",
+		"languages": [
+			"en",
+			"bn",
+			"hi",
+			"mr",
+			"ta",
+			"te"
+		],
+		"blueprints": []
+	}
+}

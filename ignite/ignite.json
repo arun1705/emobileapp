@@ -1,0 +1,17 @@
+{
+  "name": "emobile_app",
+  "createdWith": "3.2.2",
+  "boilerplate": "ignite-jhipster",
+  "jhipsterDirectory": "../app_gateway",
+  "authType": "uaa",
+  "searchEngine": true,
+  "websockets": true,
+  "detox": true,
+  "askToOverwrite": false,
+  "generators": {
+    "entity": "ignite-jhipster",
+    "import-jdl": "ignite-jhipster",
+    "upgrade": "ignite-jhipster"
+  },
+  "boilerplateVersion": "3.3.1"
+}
