@@ -68,7 +68,7 @@
     "ignite-jhipster": "3.3.1",
     "lint-staged": "9.3.0",
     "detox": "14.3.4",
-    "mocha": "6.2.0",
+    "mocha": "10.2.0",
     "mockery": "2.1.0",
     "react-dom": "16.8.6",
     "reactotron-react-native": "4.0.0",
